@@ -16,6 +16,8 @@ public class PracticeInsertDataTest {
 		System.out.println("BROWSER" + " is equal to "  + " is " + browser);
 
 		System.out.println("hello");
+		System.out.println("Byee");
+
 	}
 
 }
