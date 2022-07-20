@@ -11,6 +11,11 @@ public class PracticeInsertDataTest {
 		String password = System.getProperty("PASSWORD");
 		String browser = System.getProperty("BROWSER");
 		
+		String browser1 = System.getProperty("browser2");
+		String url2 = System.getProperty("url");
+
+
+		
 		System.out.println("USERNAME"+ "  is equal to "  + " is " + username);
 		System.out.println("PASSWORD" + " is equal to " + " " + " is " + password );
 		System.out.println("BROWSER" + " is equal to "  + " is " + browser);
