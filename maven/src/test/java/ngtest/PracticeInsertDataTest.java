@@ -11,8 +11,8 @@ public class PracticeInsertDataTest {
 		String password = System.getProperty("PASSWORD");
 		String browser = System.getProperty("BROWSER");
 		
-		String browser1 = System.getProperty("browser2");
-		String url2 = System.getProperty("url");
+		String browser1 = System.getProperty("Browser");
+		String url2 = System.getProperty("Url");
 
 
 		
